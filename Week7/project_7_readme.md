@@ -11,7 +11,7 @@ Time spent: 3 hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS)
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: ![Exploit 1](https://github.com/carolchau/CodePath/Week7/gifs/w7exploit1.gif)
+  - [ ] GIF Walkthrough: ![Exploit 1](https://github.com/carolchau/CodePath-Cybersecurity/Week7/gifs/w7exploit1.gif)
   - [ ] Steps to recreate: 
   	- Create a new post
 	- Enter HTML containing Javascript.  
@@ -23,7 +23,7 @@ Time spent: 3 hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS)
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
-  - [ ] GIF Walkthrough: ![Exploit 2](https://github.com/carolchau/CodePath/Week7/gifs/w7exploit2.gif) 
+  - [ ] GIF Walkthrough: ![Exploit 2](https://github.com/carolchau/CodePath-Cybersecurity/Week7/gifs/w7exploit2.gif) 
   - [ ] Steps to recreate: 
   	- Comment on a post (no authentication needed)
 	- Enter HTML containing Javascript that is over 64kb long.
@@ -34,7 +34,7 @@ Time spent: 3 hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS)
     - Tested in version: 4.2
     - Fixed in version: 4.6
-  - [ ] GIF Walkthrough: ![Exploit 3](https://github.com/carolchau/CodePath/Week7/gifs/w7exploit3.gif) 
+  - [ ] GIF Walkthrough: ![Exploit 3](https://github.com/carolchau/CodePath-Cybersecurity/Week7/gifs/w7exploit3.gif) 
   - [ ] Steps to recreate: 
   	- Comment on a post (no authenticaton needed)
 	- Enter Javascript code
